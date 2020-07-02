@@ -67,7 +67,7 @@ import org.knime.dl.tensorflow.savedmodel.core.TFSavedModelTensorFactory;
 public class TFSavedModelExecutionContext
 	extends TFAbstractExecutionContext<TFSavedModelNetwork> {
 
-	private static final String EXECUTION_CONTEXT_NAME = "TensorFlow";
+	private static final String EXECUTION_CONTEXT_NAME = "TensorFlow 1";
 
 	/**
 	 * Creates a new execution context for TensorFlow SavedModels.

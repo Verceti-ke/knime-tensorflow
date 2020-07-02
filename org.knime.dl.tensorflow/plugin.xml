@@ -20,7 +20,7 @@
             icon="icons/tensorflow.png"
             level-id="tensorflow"
             locked="true"
-            name="TensorFlow"
+            name="TensorFlow 1"
             path="/labs/deeplearning">
       </category>
    </extension>

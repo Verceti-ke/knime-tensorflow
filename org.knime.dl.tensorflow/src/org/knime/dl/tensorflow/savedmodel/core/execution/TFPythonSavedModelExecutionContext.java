@@ -67,7 +67,7 @@ import org.knime.dl.tensorflow.savedmodel.core.TFSavedModelNetwork;
  */
 public class TFPythonSavedModelExecutionContext extends TFAbstractExecutionContext<TFSavedModelNetwork>{
 
-	private static final String EXECUTION_CONTEXT_NAME = "TensorFlow (Python)";
+	private static final String EXECUTION_CONTEXT_NAME = "TensorFlow 1 (Python)";
 
 	/**
 	 * Creates a new execution context for TensorFlow SavedModels which uses the Python TensorFlow library.
